@@ -1,5 +1,6 @@
 trigger:
 - main
+- kiki
 
 pool:
   vmImage: ubuntu-latest
